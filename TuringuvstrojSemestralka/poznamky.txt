@@ -1,0 +1,17 @@
+Dobrý den,
+Program je napsaný v jazyce java v prostredi Visual Stuido Code.
+skrze cmd je demonstrován test při, kterém zadáváte volby, což má za následek změnu stavu
+TuringuvstrojSemestralka obsahuje jak soubor Jar, tak i jednotlivé soubory java ve složce \src
+
+Jak jej spustit?
+Varianta číslo 1
+1) extrahujte zip soubor do složky, kde program chcete mít umístěný.
+2) ve složce ***\TuringuvstrojSemestralka je umístěn .jar soubor, který se musí spustit.
+3) je zapotřebí mít nainstalovanou javu je to freeware, když nemáte je nastažení: https://www.java.com/en/download/
+3) v příkazovém řádku přejděte do složky ***\Ukol2 a poté příkazem: java --enable-preview -jar TMSemestralka.jar program spustíte.
+4) stačí se pak řídit pokyny.
+
+
+Varianta číslo 2
+Soubory ve složce TuringuvstrojSemestralka si naimportujte do prostredi podporujícího javu. Netbeans, Eclipse, Visual Studio Code, atd. Záleží co vím více vyhovuje.
+
